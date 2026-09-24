@@ -17,6 +17,7 @@ REST API powering the Acme Retail product catalog and order management.
 | GET | /products/:id | Get product details |
 | POST | /orders | Create a new order |
 | GET | /orders/:id | Get order status |
+| GET | /health | Health check endpoint |
 
 ## Getting Started
 ```bash
